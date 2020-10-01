@@ -4,7 +4,7 @@ Cloud Haiku is an open-source repository that collects haikus about the cloud an
 
 ## [Haikus](https://do-community.github.io/cloud_haiku/haikus/)
 
-All of our user-submitted **[haikus](https://do-community.github.io/cloud_haiku/haikus/)** are available via the [`/_haikus`](https://github.com/do-community/cloud_haiku/tree/master/_haikus) directory.
+All of our user-submitted **[Haikus](https://do-community.github.io/cloud_haiku/haikus/)** are available via the [`/_haikus`](https://github.com/do-community/cloud_haiku/tree/master/_haikus) directory.
 
 ## Contributing
 
